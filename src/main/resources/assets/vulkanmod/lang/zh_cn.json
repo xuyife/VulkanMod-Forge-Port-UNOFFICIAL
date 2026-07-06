@@ -1,0 +1,40 @@
+{
+  "vulkanmod.options.unknown": "未知",
+
+  "vulkanmod.options.pages.video": "视频",
+  "vulkanmod.options.pages.graphics": "图形",
+  "vulkanmod.options.pages.optimizations": "优化",
+  "vulkanmod.options.pages.other": "其他",
+
+  "vulkanmod.options.buttons.apply": "应用",
+  "vulkanmod.options.buttons.kofi": "支持作者",
+
+  "vulkanmod.options.advCulling": "高级区块剔除",
+  "vulkanmod.options.advCulling.aggressive": "激进",
+  "vulkanmod.options.advCulling.conservative": "保守",
+  "vulkanmod.options.advCulling.normal": "普通",
+  "vulkanmod.options.advCulling.tooltip": "使用剔除算法减少不可见区块的渲染数量，可能提升性能。",
+
+  "vulkanmod.options.ao.subBlock": "开启（子方块）",
+  "vulkanmod.options.ao.subBlock.tooltip": "开启（子方块）：为非完整方块启用平滑光照（实验性）。",
+
+  "vulkanmod.options.deviceSelector": "设备选择",
+  "vulkanmod.options.deviceSelector.auto": "自动",
+  "vulkanmod.options.deviceSelector.tooltip": "当前设备",
+
+  "vulkanmod.options.entityCulling": "实体剔除",
+  "vulkanmod.options.entityCulling.tooltip": "对不可见区块中的实体启用剔除。",
+
+  "vulkanmod.options.frameQueue": "渲染队列大小",
+  "vulkanmod.options.frameQueue.tooltip": "较高的值可能有助于稳定帧时间，但会增加输入延迟。",
+
+  "vulkanmod.options.indirectDraw": "间接绘制",
+  "vulkanmod.options.indirectDraw.tooltip": "减少CPU开销但增加GPU开销。在CPU受限的系统上启用可能有所帮助。",
+
+  "vulkanmod.options.refreshRate": "刷新率",
+
+  "vulkanmod.options.uniqueOpaqueLayer": "独立不透明层",
+  "vulkanmod.options.uniqueOpaqueLayer.tooltip": "使用独立的渲染层处理不透明地形以提升性能。",
+
+  "vulkanmod.options.windowedFullscreen": "窗口化全屏"
+}
